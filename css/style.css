@@ -29,15 +29,15 @@ header {
     height: calc(100vh + 50px);
   }
 .bg-01 {
-  background-image: url("/imgs/back-1.png");
+  background-image: url("./imgs/back-1.png");
   background-size: cover;
 }
 .bg-02 {
-  background-image: url("/imgs/back-2.png");
+  background-image: url("./imgs/back-2.png");
   background-size: cover;
 }
 .bg-03 {
-  background-image: url("/imgs/back-3.png");
+  background-image: url("./imgs/back-3.png");
   background-size: cover;
 }
 .bg-04 {
